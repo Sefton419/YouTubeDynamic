@@ -1,25 +1,11 @@
-# ReduxSimpleStarter
+# YouTubeDynamic
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-###Getting Started###
+###What is it?###
 
-There are two methods for getting started with this repo.
+This app is a simple Youtube page that lets you search for and play  YouTube videos via the YouTube Data API
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+####Tech used#####
+This was a simple project to learn more about React. There is not backend or server - just React and the YouTube Data API!
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
